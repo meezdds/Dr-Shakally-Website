@@ -1,5 +1,6 @@
 node_modules/
 dist/
-.npm-cache/
+.pw-browsers/
+.chrome-home/
+qa/
 .DS_Store
-*.log

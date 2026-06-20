@@ -16,6 +16,6 @@ npm install
 npm run dev
 ```
 
-Primary editable website copy is stored in `src/content.js`.
+Primary editable website copy is stored in `src/content.js` and the routed page composition is in `src/App.jsx`.
 
-The hero portrait is a generated placeholder and should be replaced with an approved photograph of Dr. Shakally before launch.
+The site uses approved photography supplied by Dr. Shakally. Vercel rewrites all public routes to the Vite entry point so `/journey`, `/dentistry`, `/ideas`, `/speaking`, and `/life` can be opened directly.

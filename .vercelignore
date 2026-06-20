@@ -1,0 +1,8 @@
+node_modules
+dist
+.pw-browsers
+.chrome-home
+qa
+*.zip
+reference-practice-os.png
+design-qa.md
