@@ -14,3 +14,4 @@ When implementing from a selected generated mock, treat that image as the source
 - Architecture reference: reuse the editable content and admin principles from `mkettel/southern-smiles`, not its visual identity.
 - Information architecture: the homepage is a concise authority-building gateway. Journey, dentistry/practice, ideas/AI, speaking/media, and personal/fatherhood content must live on distinct routes rather than being long homepage anchor sections.
 - Photography: prioritize approved real photographs of Dr. Shakally, Southern Smiles, clinical work, team leadership, and family. Replace generated or stock-looking imagery as real assets become available.
+- Personal brand: treat Dr. Monzer Shakally's full name as the primary brand, not the domain name. The header wordmark should lead with "Dr. Monzer Shakally" in an artistic, authoritative form and keep "DDS LLC" as a quieter credential line.
