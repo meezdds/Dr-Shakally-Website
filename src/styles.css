@@ -1,8 +1,4 @@
-@import "@fontsource/mr-dafoe";
-@import "@fontsource/manrope/500.css";
-@import "@fontsource/manrope/600.css";
-@import "@fontsource/manrope/700.css";
-@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;600&family=Libre+Caslon+Display&family=Manrope:wght@500;600;700&family=Mr+Dafoe&display=swap');
 
 :root {
   color: #161a18;
