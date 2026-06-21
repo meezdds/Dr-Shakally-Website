@@ -403,9 +403,8 @@ export function App() {
   return (
     <div className="site-shell">
       <header className="header">
-        <button className="wordmark wordmark--header" onClick={() => navigate("/")} aria-label="Dr. Monzer Shakally, DDS LLC, home">
-          <span className="wordmark__name">Dr. Monzer Shakally</span>
-          <span className="wordmark__credential">DDS LLC</span>
+        <button className="wordmark wordmark--header" onClick={() => navigate("/")} aria-label="Dr. Monzer Shakally, DDS, home">
+          <span className="wordmark__signature">Dr. Monzer Shakally, DDS</span>
         </button>
         <nav className={menuOpen ? "nav nav--open" : "nav"} aria-label="Primary navigation">
           {routes.map((route) => <SiteLink key={route.path} className={path === route.path ? "active" : ""} to={route.path} onNavigate={navigate}>{route.label}</SiteLink>)}
